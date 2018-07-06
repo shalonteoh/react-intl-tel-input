@@ -1,0 +1,1 @@
+export { default as IntlTelInput } from './main.js';
